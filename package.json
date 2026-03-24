@@ -1,0 +1,24 @@
+{
+  "name": "aula3-ppi",
+  "version": "1.0.0",
+  "description": "Projeto para exemplificar validação de dados entrada no lado do servidor.",
+  "homepage": "https://github.com/CarlosFlorencio-atk/Aula3-PPI#readme",
+  "bugs": {
+    "url": "https://github.com/CarlosFlorencio-atk/Aula3-PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosFlorencio-atk/Aula3-PPI.git"
+  },
+  "license": "ISC",
+  "author": "Carlos Florencio",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
